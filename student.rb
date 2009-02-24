@@ -1,4 +1,3 @@
-# student.rb
 class Student
   
-end
+  end
