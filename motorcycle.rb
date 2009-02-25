@@ -1,6 +1,5 @@
 class Motorcycle
-  def initialize(make, color)
-    #Inxtance variables
+  def initialize(make,color)
     @make = make
     @color = color
   end
