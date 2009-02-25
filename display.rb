@@ -1,6 +1,6 @@
-class Display < MotorCycle
+class Display <Motorcycle
   def dispAttr
-    puts 'Color of MotorCycle is ' + @color
-    puts 'Make of MotorCycle is'+ @make
-  end
+  puts 'Color of Motorcycle is' +@color
+  puts 'Make of Motorcycle is' +@make
+end
 end
